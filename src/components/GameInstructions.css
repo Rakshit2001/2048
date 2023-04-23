@@ -1,0 +1,16 @@
+.game-instructions-container {
+    /* background-color: ; */
+    padding: 20px;
+    border-radius: 5px;
+  }
+  
+  .game-instructions-title {
+    font-size: 50px;
+    margin-top: 0;
+  }
+  
+  .game-instructions-paragraph {
+    font-size: 25px;
+    margin-bottom: 10px;
+  }
+  

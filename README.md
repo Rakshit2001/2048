@@ -1,5 +1,4 @@
-# 2048
-
+*2048!*
 Playing a game like 2048 can also help assess various soft skills, which are essential in many aspects of life, including work and personal interactions. Some soft skills that can be assessed or developed through playing 2048 or similar puzzle games include:
 
         1.Problem-solving skills: 2048 requires players to think critically and strategically to plan their moves and achieve the goal of merging tiles to reach the highest value possible. Players need to analyze the current game state, anticipate the outcomes of different moves, and make informed decisions to optimize their gameplay.
@@ -27,8 +26,7 @@ However, despite the strategies mentioned above, the 2048 game can also present 
 
         2.Getting Stuck: Sometimes, tiles can get trapped in a way that prevents them from being merged. For example, having tiles of the same value blocking each other's path, or having a single tile surrounded by tiles with higher values, making it impossible to merge.
 
-Steps to set up the project
-
+Steps to set up the project:-
     Step 1:-Install dependencies
             *Run the command *npm i* on the command prompt to download the dependencies.
     Step 2: Start the development server
